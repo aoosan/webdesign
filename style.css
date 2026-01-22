@@ -33,7 +33,7 @@ header{
     margin-left:70px;
     float:left;
 }
-h1 {
+h1{
     font-size:28px;
     color:crimson;
 }
@@ -122,7 +122,7 @@ h4{
     border-radius:10px;
     background-image:url(image/goldpanel.png);
 }
-#classic{clear: both;}
+#classic{clear:both;}
 .sweets{
     width:280px;
     padding:10px;
